@@ -1,0 +1,13 @@
+.DS_Store
+thumbs.db
+*.class
+*.pyc
+*.pyo
+*.swp
+.project
+.settings
+.idea
+.php_cs.cache
+composer.phar
+nbproject
+vendor
