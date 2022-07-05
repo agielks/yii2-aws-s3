@@ -2,7 +2,10 @@
 
 Amazon S3 component for Yii2.
 
-[![License](https://poser.pugx.org/agielks/yii2-aws-s3/license)](https://github.com/agielks/yii2-aws-s3/LICENSE)
+[![Latest Stable Version](http://poser.pugx.org/agielks/yii2-aws-s3/v)](https://packagist.org/packages/agielks/yii2-aws-s3)
+[![Total Downloads](http://poser.pugx.org/agielks/yii2-aws-s3/downloads)](https://packagist.org/packages/agielks/yii2-aws-s3)
+[![Latest Unstable Version](http://poser.pugx.org/agielks/yii2-aws-s3/v/unstable)](https://packagist.org/packages/agielks/yii2-aws-s3)
+[![License](http://poser.pugx.org/agielks/yii2-aws-s3/license)](https://packagist.org/packages/agielks/yii2-aws-s3)
 
 > Yii2 AWS S3 uses [SemVer](http://semver.org/).
 
